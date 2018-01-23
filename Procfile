@@ -1,0 +1,1 @@
+worker: java -Dserver.port=$PORT -jar target/lpnuTimetable-1.0-jar-with-dependencies.jar

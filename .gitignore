@@ -1,0 +1,18 @@
+# Intellij
+.idea/
+*.iml
+*.iws
+ 
+# Maven
+log/
+target/
+
+# Project data
+data.properties
+test/
+logs/
+AppTest.java
+hibernate.cfg.xml
+
+# Heroku
+.env
