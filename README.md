@@ -1,22 +1,22 @@
-# lpnuTelegrBot
+# lpnuTimetable 
+[![forthebadge](http://forthebadge.com/images/badges/built-with-love.svg)]() ![](http://www.lp.edu.ua/sites/default/files/favicon_2.ico)
 
+Bot for Telegram messenger that allows the students to retrieve the up-to-date schedule. 
 
+The bot parses information from the site of the [Lviv Polytechnic National University](http://www.lp.edu.ua/)
 
-Бот для Telegram. 
+Find the bot in Telegram: [@timetableLPNUbot](https://t.me/timetableLPNUbot)
 
-Мета створення бота - полегшений доступ до розкладу для студенів Національного Університету "Львівська політехніка".
+## Demonstration of work
 
-Бот парсить інформацію із сайту [НУ "ЛП"](http://www.lp.edu.ua/)
-
-Знайти бота у Telegram: [@timetableLPNUbot](https://t.me/timetableLPNUbot)
-
-[Демонстрація роботи](https://youtu.be/XhCPx8OP_s4)
+[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/PyJGrIezgRc/0.jpg)](http://www.youtube.com/watch?v=PyJGrIezgRc)
 
 ## Developed With
 
-* [Maven](https://maven.apache.org/) - Dependency Management
-* [Telegram API](https://core.telegram.org/api)
-* [jsoup](https://jsoup.org/) - Java HTML Parser
+* [Maven](https://maven.apache.org/)
+* [Hibernate](http://hibernate.org/)
+* [Telegram API]()
+* [jsoup](https://jsoup.org/)
 ## Author
 
-* **Олег Пелех** - [github.com/dreamer1256](https://github.com/dreamer1256). Telegram: [@OlehPelekh](https://t.me/OlehPelekh)
+* **Oleh Pelekh** - [github.com/dreamer1256](https://github.com/dreamer1256). Telegram: [@OlehPelekh](https://t.me/OlehPelekh)
